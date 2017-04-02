@@ -1,0 +1,11 @@
+1. 数据库设计与开发工具 A5M2
+http://a5m2.mmatsubara.com/
+
+2. Mysql优化工具
+http://tech.meituan.com/sqladvisor_pr.html
+
+3. 文件浏览 Q-dir
+
+4. JAVA开发IDE
+Eclipse 免费
+Intellij 社区版免费 整体优于Eclipse
